@@ -4,12 +4,12 @@ Repositório criado para armazenar os conteudos da matéria de Construção de B
 
 ## Estrutura do Repositório
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+O repositório está dividido em duas principais seções:
 
-## Aula 01
+## 01. Aulas
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+Nesta pasta, você encontrará os códigos referentes às aulas expositivas. São exemplos práticos, demonstrações e implementações discutidas durante as sessões teóricas.
 
-## Aula 02
+## 02. Práticas
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+Aqui estão armazenados os códigos correspondentes às atividades práticas. Essas práticas visam fortalecer os conceitos aprendidos em sala, proporcionando oportunidades para aplicação e exercício das habilidades adquiridas.
